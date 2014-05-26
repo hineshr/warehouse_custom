@@ -1,0 +1,4 @@
+warehouse_custom
+================
+
+openerp
